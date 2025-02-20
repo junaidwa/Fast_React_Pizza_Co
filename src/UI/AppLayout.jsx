@@ -1,7 +1,7 @@
 import Header from "./Header";
 import CartOverview from "../features/cart/CartOverview";
 import { Outlet, useNavigation } from "react-router";
-import loader from "./loader";
+
 
 
 
